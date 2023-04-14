@@ -1,0 +1,27 @@
+{
+  "name": "scrappers-js",
+  "version": "1.0.0",
+  "description": "It is a website scraper to find lower prices, instagram photos, tinder automations, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcoslora/Scrappers-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcoslora/Scrappers-JS/issues"
+  },
+  "homepage": "https://github.com/marcoslora/Scrappers-JS#readme",
+  "devDependencies": {
+    "playwright": "^1.32.3",
+    "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.32.3"
+  }
+}

@@ -1,0 +1,6 @@
+cd 01-Fabians/scrappers/shop-scraper/
+
+npm init -y
+npm i -D playwright 
+npm i standard -D como linters
+npm i @playwright/test
